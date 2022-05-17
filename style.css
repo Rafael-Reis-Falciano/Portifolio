@@ -1,0 +1,30 @@
+h2{color:rgb(0, 125, 209);}
+/* *{border:solid;} */
+
+.header
+{
+    background-color: rgb(255, 201, 188);
+    display: flexbox;
+    justify-content: space-between;
+    word-spacing: 1cm;
+}
+
+.grid
+{
+    background-color: rgb(115, 228, 228);
+    display: flexbox;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: left;
+}
+
+.footer
+{
+    display: flex;
+    justify-content: flex-end;
+}
+
+body
+{
+    background-color: #ffffff;
+}
